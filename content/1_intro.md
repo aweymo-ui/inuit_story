@@ -16,6 +16,16 @@ I come from multi-disciplinary background, creating work about history using lon
 
 Since moving from Tacoma to Moscow for this position, I have also become a student again, pursuing another master's, this time in history here at U of I. While taking on this workload and working as an Assistant Professor has been a huge workload, it's also helped me ground my work into creating practical applications for my digital scholarship work that can help students and researchers enhance their scholarship, such as [this workflow I've developed](https://aweymo-ui.github.io/python_obsidian/){:target="_blank" rel="noopener"} on using Python tools to pull annotations from reading materials and visualize these elements in the note taking application Obsidian.  
 
+{% include alert.html text="This is an example!" color="warning" align="center" %}
+
+{% include accordion.html title1="Example section" text1=example1 title2="Section two" text2=example2 title3="Section three" text3=example3 %}
+
+{% include button.html text="Example Button Link" link="https://example.com" color="success" %}
+
+{% include card.html text="Some interesting text" header="Example card" %}
+
+{% include modal.html button="More Info" color="success" title="Information" text="Example text." %}
+
 {% include gallery-figure.html img="py_ob_01.gif" alt="Obsidian graph view click through, adding and removing various elements." caption="Example of the graph output in Obsidian using the Python Annotation Extraction Tool mentioned above. The purple and blue nodes represent books for two different courses, the green nodes represent their tags and their proximity to one another represents their connections and contrasts." width="75%" %}
 
 ## Digital Scholarship Example
