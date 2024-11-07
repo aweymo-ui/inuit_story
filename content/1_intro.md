@@ -1,6 +1,6 @@
 ---
-title: Introduction
-nav: Introduction
+title: Essay Project
+nav: Essay
 gallery: true
 ---
 
