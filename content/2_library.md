@@ -1,6 +1,6 @@
 ---
-title: The Library
-nav: Library
+title: Traditional Stories
+nav: Traditional Stories
 gallery: true
 ---
 

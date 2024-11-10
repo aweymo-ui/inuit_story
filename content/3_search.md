@@ -1,6 +1,6 @@
 ---
-title: Search Strategies and Contact
-nav: Search Strategies and Contact
+title: Sanaaq
+nav: Sanaaq
 gallery: true
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Library Catalog
-nav: Catalog
+title: Split Tooth and Atanarjuat
+nav: Split Tooth and Atanarjuatg
 gallery: true
 ---
 

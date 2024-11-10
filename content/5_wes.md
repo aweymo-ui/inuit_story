@@ -1,6 +1,6 @@
 ---
-title: Web of Science
-nav: Web of Science
+title: Conclusion
+nav: Conclusion
 gallery: true
 ---
 

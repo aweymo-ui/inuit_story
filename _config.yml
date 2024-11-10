@@ -10,7 +10,7 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: College of Agricultural & Life Sciences Liaison Introduction
+title: "Inuit Storytelling Across Time: Continuity, Adaptation, and Self-Determination"
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
@@ -27,7 +27,7 @@ featured-image: "/images/banner.gif"
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: Andrew Weymouth
+author: Jacob Kuenning
 # your github username for link [optional]
 github_username: aweymo-ui
 # year or date published
