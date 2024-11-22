@@ -1,6 +1,6 @@
 ---
-title: Split Tooth and Atanarjuat
-nav: Split Tooth and Atanarjuatg
+title: Split Tooth
+nav: Split Tooth
 gallery: true
 ---
 
