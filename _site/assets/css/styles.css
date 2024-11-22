@@ -1,5 +1,5 @@
 .bg-light-blue {
-  background-color: #F0F8FF; /* This is the color #F0F8FF */
+  background-color: #b2b2b2; /* This is the color #F0F8FF */
 }
 
 /* Set Playfair as the default font for all header text */
@@ -22,13 +22,13 @@ h1, h2, h3, h4, h5, h6 {
 
 body {
   font-family: "EB Garamond", sans-serif;
-  color: #212121;
+  color: #020202;
   font-size: 1.15rem;
   line-height: 1.7;
 }
 
 body {
-  background-color: #F0F8FF;
+  background-color: #ffffff;
 }
 
 /* tweak defaults if variables set */
