@@ -4,8 +4,6 @@ nav: Traditional Stories
 gallery: true
 ---
 
-## Events
-
 {% include gallery-figure.html img="geo_banner.gif" alt="Title card with a photo of the author and an image fading betweeen an archival photo and a Google Map 3D rendering of the Rowena Loops Overlook in Oregon" caption="Presentation Transcript and Slides for the 2024 U of I Information Landscape Series" title="Presentation Transcript and Slides for the 2024 U of I Information Landscape Series" %}
 
 Most histories of the Inuit and descriptions of their culture that I have read begin with the crossing of the Alaska-Russia land bridge, but I want to start somewhere else. The following is the story of the first Inuit, as told in South Baffin Island.
