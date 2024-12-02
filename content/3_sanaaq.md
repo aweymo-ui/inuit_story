@@ -4,9 +4,15 @@ nav: Part One
 gallery: true
 ---
 
+{% include gallery-figure.html img="3-mitiarjuk.avif" alt="" caption="Saladin d'Anglure, Bernard. Mitiarjuk Nappaaluk holding raw meat. Avataq Cultural Institute. https://www.cbc.ca/radiointeractives/ideas/sanaaq-inuktitut-novel-mitiarjuk-nappaaluk" title="Mitiarjuk Nappaaluk holding raw meat" %}
+
 Mitiarjuk Nappaaluk was born in 1931 in an Inuit community in Nunavik, Canada. When she was young, her father was often ill, and so the traditionally male duty of hunting and providing for the family fell on her. When she married her husband, she lived a more traditionally female life, taking care of her family and house. Local missionaries took note of her deep knowledge, of both sides of Inuit life, and asked her to assist in language education. "She initially assisted Father Lucien Schneider, O.M.I., in producing his Inuit/French dictionary. She then worked with Father Robert Lechat, O.M.I., who wanted to improve his proficiency in the native language. He provided lined notebooks and asked her to write down sentences, in syllabics, that contained as many terms as possible from daily life. She started writing in her igloo or tent, while the children slept or when free from household chores. But this task grew wearisome. Letting her imagination roam, she created characters and described their fortunes and misfortunes over the different seasons. In short, she recounted the life of a small group of semi-nomadic Inuit families just before the first (Europeans) became established in the region. At twenty-two years of age, Mitiarjuk reinvented the novel, even though she had never read one." [1]
 
 Written over the course of 20 years (for reasons I will explain later) and spanning 48 chapters and 200 pages, Sanaaq is a cultural and literary treasure. Following a young woman named Sanaaq, her family, and her community, the novel details their daily life, subsisting in the Arctic and adapting to change and loss. Several important themes in Inuit history, surrounding the arrival of white people, manifest themselves in this book, through the writing of a woman who experienced them. It is considered the first ever Inuit novel.
+
+## Encounters and Continuity
+
+{% include gallery-figure.html img="ice.avif" alt="" caption="Kiatainaq, Lucasi. 2019. Ice Skaters on a lake in Kangiqsujuaq in 2019. CBC. https://www.cbc.ca/radiointeractives/ideas/sanaaq-inuktitut-novel-mitiarjuk-nappaaluk" title="Ice skaters on a lake in Kangiqsujuaq" %}
 
 It is difficult to track the history of early contact between Europeans and Inuit. The Canadian Arctic is a massive area of land and sea, and some areas were explored by Europeans before others. For example, there were Dutch whalers present in Davis Strait, between Greenland and Baffin Island, all the way back in the 1700s [2], while some communities, like the fictional community Mitiarjuk wrote about, went well into the 1900’s without ever seeing a white man (though they had heard of them, and even acquired some firearms and tea through trade with other Inuit). The following is a passage from Sanaaq that details their communities first interaction with white people.
 
@@ -94,6 +100,10 @@ Qalingu stood still a long moment, as if in a daze, thinking, “And what about 
 {% endcapture %}
 {% include alert.html text=text color="light" %}
 
+## Medical Care
+
+{% include gallery-figure.html img="2-mitiarjuk.avif" alt="" caption="Saladin d'Anglure, Bernard. Mitiarjuk Nappaaluk inside an igloo with a baby in her amautik, tending a kettle over a qulliq, or traditional oil lamp. Avataq Cultural Institute. https://www.cbc.ca/radiointeractives/ideas/sanaaq-inuktitut-novel-mitiarjuk-nappaaluk" title="Mitiarjuk Nappaaluk inside an igloo with a baby in her amautik, tending a kettle over a qulliq, or traditional oil lamp" %}
+
 The writing of Sanaaq was temporarily halted, after Mitiarjuk had to go to the hospital to be treated for tuberculosis. The Inuit had ethnomedical systems to deal with sickness and injury [8], but as a disease from the Qallunaat, they could do little against tuberculosis. Traders and missionaries built small hospitals in some communities, but other times the sick needed to be transported elsewhere. [9] She stopped writing halfway through chapter 24 of the novel. On her return from the hospital, she wrote chapters 25 through 37, leaving chapter 24 temporarily unfinished.  Just like Mitiarjuk, Sanaaq is also hospitalized. In this passage, we can see the two sides of the arctic hospitalization experience, the benefits and the mental toll it can take being away from your family. While most of the novel is written in the third person, Mitiarjuk seems to briefly speak directly to the reader. 
 
 {% capture text %}
@@ -102,8 +112,6 @@ The writing of Sanaaq was temporarily halted, after Mitiarjuk had to go to the h
 She nonetheless longed for her family. Whenever Inuit, either men or women, are sent to hospital for treatment, they are always very anxious to return home. They fervently wish to return to their loved ones. They miss the country food and suffer from staying in an overheated place. Sanaaq, after being in pain for a long time, now noticed a daily improvement in her health. She and the other Inuit were happy, for they were being well taken care of. Yet they dearly wanted to go home. They preferred their country, where there was no overheating. Sanaaq was thankful to the nurses and the hospital, her pains having gone. But she could not forget her son. She thought continually about him, from the moment she got up to the moment she went to bed. [10]
 {% endcapture %}
 {% include alert.html text=text color="light" %}
-
-
 
 ## Sources
 1. Bernard Saladin d'Anglure, foreword to Sanaaq, by Mitiarjuk Nappaaluk, (Manitoba: The University of Manitoba Press, 2014), 8.

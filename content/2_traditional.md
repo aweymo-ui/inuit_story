@@ -4,7 +4,7 @@ nav: Traditional Stories
 gallery: true
 ---
 
-{% include gallery-figure.html img="geo_banner.gif" alt="Title card with a photo of the author and an image fading betweeen an archival photo and a Google Map 3D rendering of the Rowena Loops Overlook in Oregon" caption="Presentation Transcript and Slides for the 2024 U of I Information Landscape Series" title="Presentation Transcript and Slides for the 2024 U of I Information Landscape Series" %}
+{% include gallery-figure.html img="eskimo-dance-ritual.png" alt="" caption="Hansen, Leo. 1924. Eskimo Dance Ritual. Smithsonian Institution Archives. https://siarchives.si.edu/collections/siris_sic_11508" title="Eskimo Dance Ritual" %}
 
 Most histories of the Inuit and descriptions of their culture that I have read begin with the crossing of the Alaska-Russia land bridge, but I want to start somewhere else. The following is the story of the first Inuit, as told in South Baffin Island.
 
@@ -49,6 +49,10 @@ The term Inuit refers to similar, but culturally distinct groups across Alaska, 
 
 Since the term Inuit is so broad, I felt that there was a possibility that discussing traditional stories might be too overwhelming of a task. What I discovered was that while there are certainly regional differences in traditional stories, and regional exclusive stories, there is also remarkable cohesion, even across great distances. Knud Rasmussen, a part Inuit and Danish explorer who grew up in Greenland, discovered this during his most famous Arctic expedition, called the Fifth Thule Expedition. While he was in Canada, he met a group of inland Inuit, and upon conversing with them, “found that they had many traditions in common with the Greenland Eskimos; indeed, a number of their folk-tales and legends are altogether identical with Greenland stories. Out of fifty-two stories which I wrote down among the Padlermiut at Hikoligjuaq, no fewer than thirty were identical with ones I had already heard in Greenland, and this despite the fact that for thousands of years past, no intercourse had taken place between the two groups of people.” Others that were not identical had similarities in theme and subject. [4] This passage from Across Arctic America assured me that traditional Inuit storytelling could be appropriately and respectfully discussed as a whole, without having one small group’s traditions speak for the others.
 
+## Traditional Life
+
+{% include gallery-figure.html img="eskimo-settlement.png" alt="" caption="Hansen, Leo. 1924. Eskimo Settlement. Smithsonian Institution Archives. https://siarchives.si.edu/collections/siris_sic_11571" title="Eskimo Settlement" %}
+
 Traditional Inuit life, before the arrival and changes brought about by the Quallunaat, was centered around subsistence activities, following the migration of food sources, the observance of strict taboos, and a shamanistic and vivid religious tradition. The main sources of food were often marine animals like seals, walruses, and saltwater fish, hunted on kayaks with harpoons. They also hunted land animals, like caribou and sea birds. [5] In the summer many hunted caribou, either with bows and arrows or by funneling them into a body of water, where hunters on kayaks would kill them with harpoons. [6] Every part of the animal was used, and sharing food was a sign of respect. The common idea was that animals gave themselves willingly to hunters, and that showing respect to your catch would ensure other animals would give themselves to you as well. Because so much of the day-to-day life was centered around subsistence, many traditional stories feature hunters and discuss the origin of animals. Interestingly, many stories blend the line between the two camps, including Inuit who transform into animals and vice versa, which we saw with the first story we looked at, and will time and time again. A story about the origin of the ptarmigan includes both themes.
 
 {% capture text %}
@@ -73,6 +77,10 @@ The child and his grandmother became ptarmigans. The peculiar cry of these birds
 This story also serves as a warning to children who do not listen to their elders.
 
 Their main mode of transportation was dogsleds, which would take Inuit families to the source of food most abundant at the time. They built igloos, semisubterranean houses, or animal skin tents depending on climate, season, and region. Life centered around nuclear families, the mother and father pairing usually being arranged by their parents, but things like adoption, polygyny, and wife-swapping were common. Because of the importance of marriage for communities to survive, marriage, it’s importance, and the punishment of those who refuse to marry, are prominent themes in traditional stories, as we saw in the first story.
+
+## Taboo and Sedna
+
+{% include gallery-figure.html img="the-frostbitten.png" alt="" caption="Hansen, Leo. 1924. Eskimo Named The Frostbitten. Smithsonian Institution Archives. https://siarchives.si.edu/collections/siris_sic_11507" title="Eskimo Named The Frostbitten" %}
 
 Life in the Arctic was governed by taboo, or a set of specific rules that one must follow. The specific rules that governed life changed by region, so what was taboo among one group might be fine among another. Breaching of these rules threatened the wellbeing of the perpetrator, and sometimes the entire group. Professor of Inuit Studies at Queen’s University, Neil McDermott, summarized the idea of taboo well in the introduction to his book Unikkaaqtuat. “There were rules governing every single aspect of life: childbirth, naming, death, eating, sewing, hunting, and so on. As one might expect, a large number of taboos revolved around the proper care and treatment of animals without which Inuit could not survive.” [8] Inuit believed that animals willingly gave themselves to their hunters, and the hunter’s job was to show respect to his catch, often times so that the soul of the animal would think positively about the hunter and tell other animals to be caught. 
 
@@ -105,11 +113,15 @@ When he was out seal catching, a fox set his teeth fast in the lappet of his coa
 
 A short time afterward, Pautusorssuaq was torn to pieces by Alattaq’s spirit, in the shape of a bear. His daughter, who happened to be outside at that time, heard the shrieks and went in to tell the others, but as soon as she got inside, fshe forgot what she wanted to say, because the avenging spirit had conjured forgetfulness upon her.
 
-It was only later that she remembered, and then it was too late. They found Pautusorssuaq, torn limb from limb; they could see that he had tried to defend himself with great lumps of ice, but it had been of no avail. [12]
+It was only later that she remembered, and then it was too late. They found Pautusorssuaq, torn limb from limb; they could see that he had tried to defend himself with great lumps of ice, but it had been of no avail. 
 
-That is how revenge comes upon people who murder.
+That is how revenge comes upon people who murder. [12]
 {% endcapture %}
 {% include alert.html text=text color="light" %}
+
+## The Angakok
+
+{% include gallery-figure.html img="a-great-teller.png" alt="" caption="Hansen, Leo. 1924. A Great Teller of Stories and Legends of the Eskimo Race. Smithsonian Institution Archives. https://siarchives.si.edu/collections/siris_sic_11541" title="A Great Teller of Stories and Legends of the Eskimo Race" %}
 
 An important figure in traditional Inuit society was the angakok, usually translated to shaman. The first angakok that Rasmussen met on his expedition was named Aua, who described his duties. Chief among them, was ensuring the observances of taboos. Aua was able to tell when someone had broken a taboo, and there was an associated ritual with the confession of a broken taboo. It was also Aua’s job to, when faced with famine, go to Sedna and ask her to provide the hunters with marine animals. [13] The exact procedures, rituals, duties, and even the process to become an angakok changed with each one Rasmussen met. In traditional stories, angakok have other abilities, including living as animals and bringing inanimate objects to life. A story recorded in the Netsilik region of Canada describes one angakok’s experience living the life of various animals.
 

@@ -1,5 +1,5 @@
 ---
-title: Part Two
+title: Sanaaq, Part Two
 nav: Part Two
 gallery: true
 ---
@@ -26,10 +26,13 @@ She strove to push herself whenever she felt like lazing around. She developed a
 {% endcapture %}
 {% include alert.html text=text color="light" %}
 
-
 The more likely explanation for the lack of taboo observance and traditional Inuit religion in Sanaaq is found in the context and purpose of the book. If you recall, Sanaaq was originally meant as a phrase book, and it was written under supervision of Christian missionaries. An excerpt by Bernard Saladin d’Anglure, the anthropologist who worked with Mitiarjuk directly, written in the foreword of Sanaaq, explains this “self censorship.”
 
 "… slight variations are noticeable in the content of the episodes, depending on whether they were written for the missionaries or for the anthropologist. Some self-censorship by the author may be detected in the first two manuscripts collected by the Oblates…" "Mitarjuk was a practicing Catholic and in these episodes, through the utterances of Sanaaq, her heroine, expresses moralizing judgments on the old beliefs, such as omens." [5]
+
+## A Change in Attitude
+
+{% include gallery-figure.html img="4-mitiarjuk.avif" alt="" caption="Saladin d'Anglure. 1966. Mitiarjuk Nappaaluk in 1966, picking mussels under the ice at low tide. Avataq Cultural Institute. https://www.cbc.ca/radiointeractives/ideas/sanaaq-inuktitut-novel-mitiarjuk-nappaaluk" title="Mitiarjuk Nappaaluk in 1966, picking mussels under the ice at low tide." %}
 
 But that isn’t the case for the entire novel. "The second part of episode 24, interrupted by the author’s hospitalization and completed later for the anthropologist, clearly shows a change in attitude, with a long development on mythology and beliefs. Furthermore, the last ten episodes address themes at are absent from the initial manuscripts…" [6]
 
@@ -78,6 +81,10 @@ Qalingu made his preparations. He was afraid he would not be allowed to come bac
 {% endcapture %}
 {% include alert.html text=text color="light" %}
 
+## Conjugal Violence
+
+{% include gallery-figure.html img="1-mitiarjuk.avif" alt="" caption="Saladin d'Anglure. 1966. Mitiarjuk Nappaaluk and her son Yani sitting inside a tent in 1966. Avataq Cultural Institute. https://www.cbc.ca/radiointeractives/ideas/sanaaq-inuktitut-novel-mitiarjuk-nappaaluk" title="Mitiarjuk Nappaaluk and her son Yani sitting inside a tent in 1966." %}
+
 One of the boldest things that Mitiarjuk wrote about after the return from her second hospital trip, was conjugal violence, and how it effects the victim and the entire community. Since we don’t have statistics dating back to the 1930-40s, it’s unclear if this was common, or if it’s based off Mitiarjuk’s personal experience. While living in Nunavut in 1971 (many years after Mitiarjuk finished writing Sanaaq), she encoutered conjugal violence, usually fueled by alcohol, in many of the families that she lived with. [11] In the novel, Sanaaq’s son is in need of medical attention, and the only way to a hospital is to send him, alone, with the Europeans. Her husband, Qalingu, wants her to send the child to a hospital, but Sanaaq is afraid she won’t see her son again, so she runs away.
 
 {% capture text %}
@@ -113,6 +120,8 @@ He began to hit Sanaaq. He beat her with his fists while heaping insults on her.
 {% include alert.html text=text color="light" %}
 
 They return together, but Sanaaq is unable to work, due to her intense pain, and must go to the hospital.
+
+## Non-Humans
 
 In a sharp contrast to the rest of the novel, the last few chapters take on a supernatural element, in a way they wouldn’t have when Mitiarjuk was supervised by missionaries. Maatiusi, had just found out that his fiancé, Arnatuinnaq, had a child with one of the Europeans. 
 
@@ -155,6 +164,8 @@ The novel ends there.
 
 Mitiarjuk Napaaluk went on to write more books, to serve as teaching tools for school children. Copies of Sanaaq can be found in classrooms across Arctic Canada. She passed away in 2007. [15]
 
+
+## Sources
 1. Ann McElroy, "Missionaries," in Nunavut Generations, (Long Grove: Waveland Press, 2008), 49.
 2. McElroy, "The Myth of Sedna," 47.
 3. McElroy, "Conversion and Reform," 51.
