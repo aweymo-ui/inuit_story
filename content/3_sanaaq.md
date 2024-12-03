@@ -1,5 +1,5 @@
 ---
-title: Part One
+title: Sanaaq, Part One
 nav: Part One
 gallery: true
 ---

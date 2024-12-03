@@ -119,7 +119,7 @@ He began to hit Sanaaq. He beat her with his fists while heaping insults on her.
 {% endcapture %}
 {% include alert.html text=text color="light" %}
 
-They return together, but Sanaaq is unable to work, due to her intense pain, and must go to the hospital.
+They return together, but Sanaaq is unable to work, due to her intense pain, and must return to the hospital.
 
 ## Non-Humans
 
